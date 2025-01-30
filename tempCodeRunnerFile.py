@@ -1,2 +1,2 @@
-)
-# print(a1)
+
+    return n * fact(n - 1)
